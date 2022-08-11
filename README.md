@@ -1,0 +1,2 @@
+<h2>Projeto para estudo de testes no Java</h2>
+Neste projeto foi usado para testes o MockBean, fazendo as devidas praticas do TDD, de escrever testes que irão falhar, para depois consertar-los e refatora-los.
